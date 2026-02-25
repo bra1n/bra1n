@@ -1,2 +1,5 @@
 ### <img src="https://komarev.com/ghpvc/?username=bra1n" align="right"> Hi there 👋
-[![bra1n's github stats](https://github-readme-stats.vercel.app/api?username=bra1n&count_private=true&show_icons=true&theme=chartreuse-dark&hide=contribs)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bra1n&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=325521&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @634750802" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=325521&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
